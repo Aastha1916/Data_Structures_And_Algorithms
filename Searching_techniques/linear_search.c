@@ -1,4 +1,4 @@
-//linear search technique is applicable for searching any element in unsorted arrays
+//linear search technique is applicable for searching any element in unsorted arrays---Time Complexity: O(n)
 //In case of same elements present in the array , first occuring position of element will be returned
 #include<stdio.h>
 int search_unsorted(int a[],int key,int n)
